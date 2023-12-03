@@ -8,5 +8,6 @@ module.exports = {
       'error', 
       { endOfLine: 'atuo'}
     ],
+    "no-console": 'off',
   },
 }
