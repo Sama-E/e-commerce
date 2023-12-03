@@ -4,7 +4,6 @@ import classes from './index.module.scss';
 import { Header } from '../../../../payload/payload-types';
 import { Gutter } from '../../Gutter';
 import Link from 'next/link';
-import MobileNav from '../MobileNav';
 import { HeaderNav } from '../Nav';
 import { noHeaderFooterUrls } from '../../../constants';
 import { usePathname } from 'next/navigation';
